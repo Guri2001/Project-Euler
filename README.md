@@ -1,2 +1,4 @@
-# Project-Euler
-Solved Problems from project euler
+# Project-Euler Solutions
+My Solved problems on Project Euler. 
+
+The Solutions have been implemented in Pytho.
