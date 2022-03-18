@@ -9,7 +9,3 @@ for i in range(100):
     if(a < MAX_FIB and a%2 == 0):
     
         total +=a
-
-answer =  4613732
-if(answer == total):
-    print("Passed")
